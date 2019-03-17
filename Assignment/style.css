@@ -1,0 +1,85 @@
+/* Nav bar edditing */
+
+.navigation {
+  align-items: center;
+  position: absolute;
+  left: 200px;
+  background-color: #331;
+  margin-left: 6%;
+}
+.niv {
+  display: inline;
+  font-size: 150%;
+  padding: 17px 100px;
+  text-decoration: underline;
+  float: left;
+  color: white;
+}
+li a:hover {
+  background-color: #111;
+}
+
+/* body edditings */
+body{
+  background-color: rgba(0, 0, 0, 0.82);
+  text-shadow: 300px;
+}
+.Logo {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  font-size: 500%;
+  color: rgba(255, 21, 0, 0.78);
+  /* background-image: url("Assignment/background.jpeg"); */
+}
+h2 {
+  text-align: center;
+  font-size: 280%;
+  color:rgba(255, 21, 0, 0.78);
+}
+button{
+  background-color: rgb(252, 24, 24);
+  height: 80px;
+  width: 150px;
+  border-radius: 50%;
+}
+button:hover{
+  background-color: #d40000;
+  color: rgb(21, 219, 16)
+}
+/* Images edditing */
+.Almovies {
+  width: 420px;
+  /* margin-left: 30px; */
+  display: inline;
+}
+.Movies {
+  width: 220px;
+  float: left;
+  margin: 10px;
+  height: 198px;
+  padding-left: 2.2%
+}
+figure {
+  display: block;
+  width: 202px;
+  height: 170px;
+  padding: 19px;
+  text-align: left;
+  font-size: 40px;
+  color: rgb(186, 170, 61)
+}
+figure img {
+  width: 300px;
+  height: 350px;
+  border: 1px solid #d6d6d6;
+
+}
+.psub{
+  font-size: 60px;
+  color: rgb(186,170,60)
+}
+.sub{
+  margin-left: 300px;
+}
